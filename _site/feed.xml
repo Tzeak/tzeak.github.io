@@ -1,14 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-02T20:05:38-07:00</updated><id>http://localhost:4000/</id><title type="html">Tzeak</title><subtitle>In the middle of an existential renaissance.
-</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/06/02/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-06-02T19:55:55-07:00</published><updated>2017-06-02T19:55:55-07:00</updated><id>http://localhost:4000/jekyll/update/2017/06/02/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/02/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-02T18:28:15-07:00</updated><id>http://localhost:4000/</id><title type="html">Tzeak</title><subtitle>In the middle of an existential renaissance.
+</subtitle><entry><title type="html">Step 2: Plan Dreams</title><link href="http://localhost:4000/step2/organization/2017/06/15/step-2.html" rel="alternate" type="text/html" title="Step 2: Plan Dreams" /><published>2017-06-15T19:55:55-07:00</published><updated>2017-06-15T19:55:55-07:00</updated><id>http://localhost:4000/step2/organization/2017/06/15/step-2</id><content type="html" xml:base="http://localhost:4000/step2/organization/2017/06/15/step-2.html">&lt;p&gt;So the obvious next question is - &lt;em&gt;how can you successfully pursue a dream?&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;The problem with this question is that the language makes it unachievable.  Dreams by the very language used to describe them, are deified into unattainability.When you look at a great auteur, you don’t see the work that goes into it. 
+The first trick is to couch the dream into a context that is immediately more approachable. This leads us to a reformulation of our question.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;How can you successfully solve a big problem?&lt;/em&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Now any self-help book or trainer will tell you - first define the problem, and then break up the big task into smaller ones.
+Start small, work your way up. Little by little.
+So with any dream, the basic answer is, have a todo-list.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;I hate todo lists. I have tried every todo-list app, I have tried setting alarms for todo-lists. I have tried making one on a paper notebook. Admittedly, that worked better, but it was still awful.
+Why do todo-lists suck?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;They are ugly and unwieldy&lt;/li&gt;
+  &lt;li&gt;They suffer from the &lt;em&gt;Out of Sight, Out of Mind&lt;/em&gt; mentality.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To the first point – it’s important to appreciate the experience of working with a todo-list. Otherwise, it becomes self-defeating. I tried using Gtasks Pro for a while. It had a good system to approaching todo-lists, but the experience of actually using the application was not enjoyable.&lt;/p&gt;
+
+&lt;p&gt;But the major problem is &lt;em&gt;Out of Sight, Out of Mind&lt;/em&gt; mentality. Essentially, so long as a todo-list is an application on my phone, or a notebook tucked away somewhere, the list doesn’t become part of the environment.
+Instead, it becomes a new habit that I need to practice and form.&lt;/p&gt;
+
+&lt;p&gt;So what’s the problem, just suck it up and hold yourself to this new habit for a bit and everything will get better, right?
+Sure. So we have a new question.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How do you build a good habit?&lt;/em&gt;
+A good habit is a routinely practiced, desirable behavior given a set of stimulus.
+So it needs three things:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Environmental stimulus&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Routine Practice&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Desireable&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I actively loathe using my phone for texting or social media. And I turn off/avoid/ignore the addictive, habit forming notifications as much as possible. Which means…
+Todo-list apps don’t &lt;em&gt;actually&lt;/em&gt; suck. They’re just bad because I don’t let them be environmentally stimulating. I clear all notifications, and I avoid using my phone. &lt;em&gt;Out of Sight, Out of Mind.&lt;/em&gt;  And since when have I ever used a notepad? There’s no routine practice there. So that approach too failed. Obviously, now, in hind-sight.&lt;/p&gt;
+
+&lt;p&gt;So the best “todo-list” would change my environment such that I’m forced to deal with it. It would work off of old routines, so that dealing with the todo-list would itself be routinely practiced. And to work with the todo-list aught to be an enjoyable experience.&lt;/p&gt;
+
+&lt;p&gt;Enter Kanban.&lt;/p&gt;
+
+&lt;p&gt;In the Silicon Valley bubble and beyond, you can find various project management tools all designed around getting shit done. Tools like JIRA, Basecamp, Trello, all create methodologies to approach building projects in the most “agile” way possible.
+The systems by all of the above are fairly similar and use variations of a board called Kanban. 
+A Kanban board has four topics. Backlog, Todo, In Progress and Done. 
+The idea is essentially, to take a bunch of Post-it notes, put tasks on them, and move them across the board as they change status over the course of the week. Any other longterm projects go off onto a project planning chart or project backlog, to be used the next week when planning out tasks.&lt;/p&gt;
+
+&lt;p&gt;So just to reiterate - set up Post-its each week on the board. As the week progresses, move each Post-it across the board.&lt;/p&gt;
+
+&lt;p&gt;Backlog –&amp;gt; Todo –&amp;gt; In Progress –&amp;gt; Done
+At the end of the week, assess and mark up pitfalls.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/kanbanAttempt1.JPG&quot; alt=&quot;Here's mine.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and holy shit it’s the best thing I’ve ever done. For the first time in my life, I am getting shit done, and holding myself accountable.&lt;/p&gt;
+
+&lt;p&gt;Why does this work?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Desirable&lt;/em&gt;: If the design of the todo-list isn’t working, you have instant access to the “source code” and have the ability to reconstruct the board to your individual liking. This means you’re not working with a user interface that doesn’t fit your style.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Routine Practice&lt;/em&gt;: The physical action of writing down tasks, and actively moving them across the finish line, is an inherent gamification that feels far more satisfying to me than simply checking off a tiny box on my phone. Gamification is generally considered the number one way to form habits. It’s a way of creating desireable routine practice. As an added benefit, I really resonate with handwriting and  physical objects, so it’s also a +1 Desirable charateristic.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Environmental Stimulus&lt;/em&gt;: The nature of a physical object is that it is something that you just bump into. When dealing with the &lt;em&gt;Out of Sight, Out of Mind&lt;/em&gt; mentality, it’s extremely important to get it BACK IN YOUR SIGHTS. I placed my Kanban board on my closet door. If I ever walk into my room, I will see it. I will notice what I have planned for that week, and any tasks I had forgotten about, I remember.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are some added benefits that come as a result of the physical nature of the board. There’s no notification vying for my attention, in psuedo-human language “Hey! Don’t forget to blahblahblah!” Notfications are annoying, and when they’re overwhelming, they induce anxiety.
+The board is passive, but almost unignoreable. That’s not to say that it can’t induce anxiety - any todo-list can. But anxiety only comes when you have an ill-maintained board. And the nature of the board, Kanban, and Agile methodology includes planning and board maintenance as part of the mechanism of movement. As a result, anxiety is inherently controlled.&lt;/p&gt;
+
+&lt;p&gt;When I started this project, I started with just a basic board, no methodology. I quickly ran into some trouble - too many items in the backlog, too little movement of items across the board. The board is not enough. You need to establish micro-quotas. Week by week, how many items you want to accomplish. This adds to the gamification experience. With micro-quotas, there’s a sense of pace. You finish items that you want to complete that week, and you save some time at the end of the week to plan the next board.&lt;/p&gt;
+
+&lt;p&gt;It also means you &lt;em&gt;FOCUS&lt;/em&gt;. One of my biggest problems is having the attention span of a goldfish. So by preventing overload of todo-items and multi-week planning, the result is actually completing the subtasks that you need to complete.&lt;/p&gt;
+
+&lt;p&gt;You can find other projects and general tomfoolery on my &lt;a href=&quot;http://tzeak.com&quot;&gt;main website here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">So the obvious next question is - how can you successfully pursue a dream?</summary></entry><entry><title type="html">Step 1: Have Dreams</title><link href="http://localhost:4000/step1,/procrastination,/motivation/2017/06/02/step-1.html" rel="alternate" type="text/html" title="Step 1: Have Dreams" /><published>2017-06-02T19:55:55-07:00</published><updated>2017-06-02T19:55:55-07:00</updated><id>http://localhost:4000/step1,/procrastination,/motivation/2017/06/02/step-1</id><content type="html" xml:base="http://localhost:4000/step1,/procrastination,/motivation/2017/06/02/step-1.html">&lt;p&gt;&lt;em&gt;Disclaimer: The following is not humble. I am the audience for these posts. This writing is motivational, and a snapshot of how I’m thinking about things at this moment.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I think, in order to live a fulfilled life, it’s important to have meaningful pursuits.&lt;/p&gt;
+
+&lt;p&gt;It’s easy, I think, in the Silicon Valley culture to dream of startups and making it big and building an impact. In fact, the phrase “Make an impact” seems to be the number one motivating factor for young people working in Silicon Valley.&lt;/p&gt;
+
+&lt;p&gt;The classically successful people in college are also those who are most disciplined, focused, attentive, and work through their classes diligently. I would say that most of my closest friends are like this. They were very focused on a certain goal from a young age - get here. That is what success is.&lt;/p&gt;
+
+&lt;p&gt;For the longest time, I could never do this. Getting a job in “real-life” is not success. Being well-off, a secure future, that is not success. Yet I had no true alternatives for what a meaningful life looked like.&lt;/p&gt;
+
+&lt;p&gt;As a result, my personally achieavable goals were all short-term and hedonistic. With the lack of a grander meaning, my interest defaults to what will give me the most current pleasure. I enjoyed learning for the sake of learning, but only when learning itself was a joy or the topic was interesting on its own merits. Without meaningful dreams, discipline, focus and attentiveness cannot possibly be high priorities. The result - I would skip classes. I would write essays the day of. I would pull multiple all-nighters, studying for tests. The procrastination itself became a meaningful pursuit, because the amount of focus that I would attain through urgency of a due date was &lt;em&gt;fun&lt;/em&gt;. There’s no discipline here. There is only hedonistic pleasure.&lt;/p&gt;
+
+&lt;p&gt;There was only one other motivating factor in my life that ever had me pursue stronger, greater goals - people. The people in my life that needed me or relied on me, or the people who worked alongside me as a peer, there is no way I would ever allow myself to let them down.
+But for myself? How could I be motivated to accomplish goals for myself?
+Hedonism only works for so long.&lt;/p&gt;
+
+&lt;p&gt;I’ve graduated. Society has said “this is what success looks like.”
+I have a good job. I get paid well. I live comfortably. This is what success looks like. 
+And I’m sure for my friends who have their goal that they were pursuing and and grander goals that they were pursuing, this is the best experience of their life. 
+But in life, the goals are no longer explicitly and outwardly defined. It is now my time to pursue my own goals.&lt;/p&gt;
+
+&lt;p&gt;So I’ve spent a good few months trying to figure out what I’m truly interested in, what do I really want to do? 
+I have some not-so-current dreams: become a good dad, become a good teacher. In a world seemingly dedicated to becoming isolated and insular, I want to be the catalyst to the children of the next generation, my children to embrace the greater world without fear, at least without my own prejudices.&lt;/p&gt;
+
+&lt;p&gt;But my current dream:&lt;/p&gt;
+
+&lt;p&gt;I spent four years attending philosophy conferences and meetings in Santa Clara while being discouraged by advisors to pursue anything outside of engineering. 
+No one is here to discourage me further.
+The interesection of Philosophy and Computer Science is a such a profound area of study that I found curricula that was purely dedicated to it in Stanford, in the field of Symbolic Systems.
+It is literally the frontier of discovery in how technology will affect us in our daily lives. It asks the question, what does it mean to be living? To be ethical?
+It is highly interdisciiplinary, so there’s none of the discouragement from peers or faculty that only one school’s progress is truly important.
+And the best part? There’s absolutely no question of it being useful to society. To the people around me whom I will work with and for. To the children of the next generation.
+so it’s pretty exciting.&lt;/p&gt;
+
+&lt;p&gt;So here’s the dream:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Learn about Symbolic Systems and Philosophy to the point where I could be considered for the grad programs at Stanford.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;also maybe get into the Knight-Hennessey Program because when you have impossible dreams, why not have two?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I need to spend more time on “why these dreams in particular” but also, I want to record on the modern stone tablet - Roshan finally has a dream.
+A dream for himself as well as for others. Not just hedonistic, but not purely in the service of other people either.&lt;/p&gt;
+
+&lt;p&gt;Having a dream is not enough though. You also need to save them.&lt;/p&gt;
+
+&lt;p&gt;You can find other projects and general tomfoolery on my &lt;a href=&quot;http://tzeak.com&quot;&gt;main website here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Disclaimer: The following is not humble. I am the audience for these posts. This writing is motivational, and a snapshot of how I’m thinking about things at this moment.</summary></entry><entry><title type="html">how to pursue dreams by a professional daydreamer</title><link href="http://localhost:4000/procrastination/2017/06/02/how-to-pursue-dreams.html" rel="alternate" type="text/html" title="how to pursue dreams by a professional daydreamer" /><published>2017-06-02T19:55:55-07:00</published><updated>2017-06-02T19:55:55-07:00</updated><id>http://localhost:4000/procrastination/2017/06/02/how-to-pursue-dreams</id><content type="html" xml:base="http://localhost:4000/procrastination/2017/06/02/how-to-pursue-dreams.html">&lt;ul&gt;
+  &lt;li&gt;Step 1: Have Dreams&lt;/li&gt;
+  &lt;li&gt;Step 2: Save Dreams&lt;/li&gt;
+  &lt;li&gt;Step 3: Learn what makes you tick&lt;/li&gt;
+  &lt;li&gt;Step 4: Identify Pitfalls&lt;/li&gt;
+  &lt;li&gt;Step 5: Get Started&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is going to be a candid look at my current state of mind. It’s been about a year since I’ve finished college, and the existential ennui has hit me pretty hard.
+In addition to the usual senses of loss of meaning and purpose, I’ve recently decided to work on my inattentiveness. 
+This blog is, I hope, going to maintain as a sort of record of my progress, in the same way people keep track of their progress in a gym. 
+You can find other projects and general tomfoolery on my &lt;a href=&quot;http://tzeak.com&quot;&gt;main website here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">Step 1: Have Dreams Step 2: Save Dreams Step 3: Learn what makes you tick Step 4: Identify Pitfalls Step 5: Get Started</summary></entry></feed>
