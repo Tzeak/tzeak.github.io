@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Philosophy of Psychology Notes - Chapter 1"
+date:   2017-06-15 19:55:55 -0700
+categories: bookclub
+---
+Weekly Book Club: Philosophy of Psychology, by José Luis Bermúdez
+The first book we have on the list of books is Philosophy of Psychology - a contemporary introduction by José Luis Bermúdez.
+
+Chapter 1: What is the Philosophy of Psychology?
+* What Counts as Psychology
+* Historical Background
+* Pyschological concepts and the philosophy of psychology
+* Philosophy of Psychology vs Philosophy of the Mind
+
+
+*What Counts as Psychology*
+* Philosophy can be, and has been extrapolated, ultimately, to every different field. As Bermúdez states, "A philosopher who undertakes to study the philosophy of economics will have a pretty clear sense of where to look to find their object of study – roughly speaking [...] university economics departments and associated institutes ....
+* However, Psychology cannot be as simply divorced from the study of philosophy in the same in the same way. "University psychology departments only cover a subset of the subject matters that might intuitively be counted as psychological.
+* Psychology has a lot of junk that comes from medical institutions/hospitals, through brain imaging and observation of animals in the wild. Lots of empirical data and computer modeling/research from artificial intelligence and artificial life.
+* Ultimately, book will focus on anything potentially relevant to the study of cognition and behavior, "whether taught in psych depts or not"
+
+*Historical Background*
+* Compartmentalization of Psychology from Philosophy is relatively new phenomenon.
+	*  View that minds must contain innate ideas (i.e Jung Archetypes?), explanation of how we can have knowledge of the world
+	* Supported by Noam Chomsky in Cartesian Linguistics (iirc, this is where he posits Language Acquisition Centers)
+	* Descartes suggests that mind and matter are two fundamentally different things - suggests that the pineal gland probably processes the conversion of objects into concepts in the mind
+	* Clearly Descartes' work ranges acorss philosophy, psychology, and physiology
+
+* Lack of compartmentalization can be seen in the British Empiricists philosophers, Locke, Hume, Berkeley
+	* Empiricist philosophy suggested that all knowledge begins with the senses, contradicting Descartes' suggestion of innate ideas
+	* this requires explaining non-sensory (nonsense? :D) concepts
+	* Hume: associationist - will probably be discussed more later in the book
+	* Berkeley: extreme form of idealism - reality is completely a mental phenomenon. Objects are collections of non-spatial ideas that exist in the mind of God
+	* Berkeley's explanation required a psychological explanation of perception, to explain away the commonsense idea that objects are real and exist in space
+	* Berkeley's thoughts were pretty bad, but they introduced ideas developmental for psychological thinking about vision, spactial perception
+	
+* Kant
+	* In *Critique of Pure Reason*, Kant investigates transcendental psychology, i.e the general structural features that human cognition must have
+	* Crucial cognitive activity == synthesis, the bringing together of distinct representations under a single concept
+	* There are certain types of synthesis which underlie all others. 
+	* Kant's Psychology is non-empirical, nor is it trying to explain low-level account of cognitions actual workings. 
+	* View the exercise as a foray into computational psychology
+	* Kant does offer psychological challenges that can eventually be verified empirically, like his claim that spatial awareness is innate
+
+*Psychological Concepts and the Philosophy of Psychology*
+* Conceptual Analysis
+	* Conceptual analyses are about identiying the relational aspects of our conceptual schema, ultimately providing a backing for epistemology, i.e theory of knowledge
+	* This is not the only way of doing philosophy - but helps explore and analyze key concepts 
+	* Attempting to find necessary and sufficient conditions typically focuses incorrectly on complicated hypotheticals than discovering the true nature of the mind
+	* Instead, successful conceptual analysis do not require necessary and sufficient - they may be completely independent of empirical or scientific investigation
+* Concept Clusters
+	* Analytic truths: true in virtue of the meaning of the words they involve
+	* Synthetic truths: true in virtue of the way the world is
+	* Hilary Putnam suggests the distinction is uninteresting. Most statements are neither. They are in fact, law-cluster concepts.
+		* i.e concepts that are identified by a number of statements (which may neither be analytic or synthetic), that together describe a whole concept.
+	* Law-cluster concepts provide a model to think about psychological concepts like rationality, perception, cognition, etc.
+	* Because it's psychology and a "law" of nature isn't really applicable, use the term theory-cluster concept.
+	* Remember *natural kind* terms - you don't need a full grasp of the meaning to develop a satisfying theoretical account of concepts.
+		* e.g hidden essence of "rationality" may be counter to our stereotype of rationality
+
+*Philosophy of psychology and philosophy of mind*
+* Difference
+	* Philosophy of the Mind - mostly dealing with metaphysics of the mind i.e. how to categorize in ontological terms
+		* e.g dualism and alternatives thereof
+	* Phil of Mind is focused on how the mind fits into the world
+	* Philosophy of Psychology - directly focused on cognition and the explanation of behavior
+		* e.g how does cognition take place? What representations does it use? What is the criteria for rationality?
+	
+	* Philosophy of Psychology is concerned with the nature and mechanisms of cognition, rather than the metaphysics and epistemology of the mind
+	* Phil of Psych lacks insulation from scientific research that Phil of Mind has.

@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Book Club"
+date:   2017-07-01 19:55:55 -0700
+categories: bookclub
+---
+Weekly Book Club
+
+So while I have a Computer Science and Engineering Degree (And an emergency math minor!), I have very little formal knowledge of Philosophy or Cognitive Science.
+This means I got some work to do to be even REMOTELY considered for this Symbolic Systems program at Stanford.
+So we got to start with a solid foundation.
+That means, starting a weekly book club.
+
+
+The way I think it'll work is, I write a basic summary of notes and important definitions for each chapter I'll be covering. For each book, chapter is roughly 30-40 pages, with four sections.
+The books all seem to be well written, so we'll try and cover one chapter a day for a week. At the end of the week, we'll analyze and see what the best output for that book is - either an essay or set of
+essays, a dialogue with a Professor maybe. The acceptance criteria ultimately should be, do I understand the material well enough to justifiably teach all sides, without betraying my own personal
+stance. 
+
+
+Here is the initial set of books that I am planning on working through and responding to:
+1. Philosophy of Psychology, by José Luis Bermúdez
+2. Consciousness Explained, by Daniel C. Dennet
+3. Concepts - Core Readings, edited by Eric Margolis and Stephen Laurence
+
+Within the month of July, all three of these books should be read, responded to, and given me a solid quasi-formal foundation for questions surrounding the mind-body problem.
+The chapters that I'll be covering are highlighted will be highlighted by a couple of the professors in Santa Clara University who I'm emailing and visiting to try and get a better foundation.
