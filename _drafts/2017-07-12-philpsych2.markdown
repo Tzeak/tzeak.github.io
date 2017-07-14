@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Philosophy of Psychology Notes - Chapter 2"
+date:   2017-07-12 19:55:55 -0700
+categories: bookclub
+---
+Weekly Book Club: Philosophy of Psychology, by José Luis Bermúdez
+
+Chapter 2: Levels of Psychological Explanation and the Interface Problem 
+* Explanation at different levels
+* Personal and subpersonal levels of explanation
+* Horizontal explanation, verticial explanation, and commonsense psychology
+* The interface problem and four pictures of the mind
+
+
+*Explanation at different levels*
+* Bottom-up vs Top-Down
+	* Bottom-up focuses on looking at the individual neurons or even lower at the molecular interactions and building our way back up via reverse engineering
+	* Top-down starts with general theories and looks for implementation in the brain. 
+	* Daniel Dennett - posits *intentional* stance, separate from the *design* stance, separate from the *physical* stance. Who knows what this means. We'll learn more when we read *Consciousness Explained*
+	* David Marr has a good example of top-down explanation in his model of the Human Visual system
+* David Marr's "Levels" of explanation
+	* Can be split into the Computational, Algorithmic, and Implementational levels.
+	* Computational: General constraints posed by the particular type of task that is being carried out.
+		* since cognition is ultimately information-processing, computational identifies input to a system and output from the system. (e.g visual stimulus to object/concept recognition)
+	* Algorithmic: Information-processing instructions. Focuses on representation of input and output through manipulation of steps.
+	* Implementational: Finding a physical realization for the algorithm.
+* Example: David Marr's Visual System
+	* 
+
