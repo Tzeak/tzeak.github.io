@@ -13,6 +13,7 @@ Books Read in 2017:
 * Notes from Underground by Fyodor Dostoevsky (July)
 * The Republic (July - )
 * Red Mars by Kim Stanley Robinson (2012- )
+* Brave New World by Aldous Huxley (July - )
 
 In Progress Projects in 2017:
 * Secretariat - CRM for Friends
