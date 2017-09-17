@@ -15,11 +15,13 @@ Books Read in 2017:
 * Red Mars by Kim Stanley Robinson (2012- )
 * Brave New World by Aldous Huxley (July)
 * The Life and Times of the Thunderbolt Kid by Bill Bryson (July)
+* The Sun Also Rises by Ernest Hemingway (August)
+* Catch-22 by Joseph Heller (September)
 
 In Progress Projects in 2017:
 * Secretariat - CRM for Friends
+* Outdoor Movie Theater (Half-way complete!)
 * Symbolic Systems prep work
-* Outdoor Movie Theater
 * Open Worm Contribution
 * Machine Learning Coursera
 
