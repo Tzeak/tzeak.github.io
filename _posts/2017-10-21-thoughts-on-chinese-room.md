@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Chinese Room
+title: Initial Thoughts on Chinese Room
 ---
 
 Problems with Searle's Programs cannot think argument:
