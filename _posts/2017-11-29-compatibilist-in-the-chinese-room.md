@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Compatibilist in the Chinese Room
+categories: Philosophy, Essays
 ---
 
 With the rapid expansion of technology and artificially intelligent entities into society, it has become increasingly confusing determining moral responsibility of computer programs, autonomous or otherwise. Intuitively, we seem to hold only fully capable moral agents morally responsible, and the only fully capable moral agents we know are other human adults. Yet, as our technological prowess increases and we are able to create robots that simulate the behavior of a human more and more, there may be sufficient reason to believe that such programs can be held morally responsible, even in spite of their clearly deterministic, programmatic behavior. To prove this, I will rely on P.F Strawson’s framework on moral responsibility and John Searle’s definition of a program as explained through the Chinese Room Thought Experiment.
