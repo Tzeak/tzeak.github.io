@@ -8,6 +8,7 @@ Problems with Searle's Programs cannot think argument:
 1) Why is intentionality not considered a program in its own right? Is
 there something about beliefs and desires that cannot be encapsulated in
 a program?
+
 2) The ethical ramifications of the Chinese Room Experiment
 imply that this does not hold amongst macro-systems (i.e, Just War
 Theory, and business/economic ramifications of following programatic
@@ -21,8 +22,8 @@ be some mental consideration of "Good" vs "Bad" which does not require
 any sort of semantic understanding. The formal syntax around "Good" and
 "Bad" can, and does in most animals, start off very simply. Pain, bodily
 harm == bad. Pleasure, satiety, removal of harm, removal of stress ==
-good. The next step beyond this implementation of base desires is belief
-- what do you believe will satisfy your base desires? What desires do
+good. The next step beyond this implementation of base desires is belief - 
+what do you believe will satisfy your base desires? What desires do
 you ought to have to encourage the satisfaction of them?
 
 As an addendum to the Chinese Experiment, imagine that each script could
