@@ -2,6 +2,7 @@
 layout: post
 title: The Dinner Party
 categories: Food
+tags: [Food, Bad Poetry]
 ---
 
 What is the philosophy of a dinner party? 
@@ -22,19 +23,31 @@ Cooking is interesting. My mom says it's more art than science, and that I have 
 Bullshit. None of these things are black and white, not even the ones and zeroes. What is the philosophy of a dinner pary?
 
 It is, I think, found in the invitation: An apology and atonement, buried in the forging of a gift, for friends new and old, unsolicited and offered freely.
+
 Presence.
+
+
 It is a presentation, of personal treasures, of memories of far off locales long since lost.
+
 Vulnerability.
+
+
 A compromise, found in the fare you care nothing for topped with a dressing, a nectar that sings "These are the ways in which I care about you!"
+
 Amrita.
 
+
 What is the philosophy of the dinner party?
+
 To give and to recieve in turn good
 
-food
-company	
-conversation
-and maybe 
-love
 
-reciprocity.
+food
+
+company	
+
+conversation
+
+and maybe 
+
+love
