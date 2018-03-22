@@ -2,7 +2,6 @@
 layout: post
 title: Fatherhood?
 ---
-#Fatherhood?
 
 Chicago wasn’t originally in the travel plans. But as plans changed, so did expected experiences. Part of the appeal of this trip was to rough it out, to stay in grimy hostels on couches that have helped conceive far more children than Genghis Khan himself. 
 

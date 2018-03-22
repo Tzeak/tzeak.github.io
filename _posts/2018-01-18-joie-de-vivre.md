@@ -2,7 +2,6 @@
 layout: post
 title: Joie De Vivre
 ---
-# Joie De Vivre 
 
 It is 1:30PM PST, Thursday January 18th. Despite talking about it for about a year, I bought an Amtrak railpass about two days ago and have boarded the California Zephyr. I’m expected to arrive in Chicago at around 2pm on Saturday.
 

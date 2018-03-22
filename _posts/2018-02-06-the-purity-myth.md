@@ -2,7 +2,6 @@
 layout: post
 title: The Purity Myth
 ---
-#The Purity Myth
 
 Maybe I’ll tag this with politely controversial.
 A couple in West Virginia was arrested yesterday for violating bigamy laws. A 46-year-old man and his 20-year-old daughter had a child. They had not met for roughly twenty years, but after the daughter reached out one day the man had started an extra-marital affair. Through his arrest he leaves behind two children and a wife.

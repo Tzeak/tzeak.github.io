@@ -2,7 +2,6 @@
 layout: post
 title: The Color of Lightning
 ---
-#The Color of Lightning
 
 When is was 6 years old, I came up with a name for myself - Thunder. I was obsessed with the ability to control electricity, and for a solid while, I would draw lightning bolts next to my name. My first usable email address remains just that,  “rthunder.” I remember excitedly telling my parents my new name, and my dad was super happy, because to a lot of his friends, he went by the name Bolt. Even on old college medals, the engraving says “BOLT.”
 

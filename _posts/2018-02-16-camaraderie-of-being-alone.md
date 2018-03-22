@@ -2,11 +2,10 @@
 layout: post
 title: Camaraderie of Being Alone
 ---
-#Camaraderie of Being Alone
 
 I’ve noticed that most of my posts have been really vague esoteric bullshit that really only makes sense to me, and probably has most other people uncomfortable. That’s why these posts will never see the light of day. But to combat that trend, let me tell you, the reader, how great the last week has been. For the past seven days, I’ve been staying in Austin, San Antonio, and topped it off with a couple days in New Orleans for Mardi Gras.
 
-##Austin
+## Austin
 The trip up to Austin was the second multi-day trip I’ve taken through the US, the first being the one that kicked off the experience in the first place on the California Zephyr. But while the Zephyr cut through the majestic mountains and canyons of the Rockies, the Texas Eagle cut through the boonies in only the most drab of fashions. The sky was covered in a multitude of gray and the fields were mostly just plain dirt lying fallow or otherwise unmaintained. 
 One interesting thing I picked up - a large number of ramshackle homes have trampolines in the backyard. My current theory is that the trampoline is the poor man’s swimming pool. More portable too. 
 
@@ -20,7 +19,7 @@ Also as a line-item, let me tell you Gourdough’s is the best shit I’ve ever 
 
 The last quintessential Austin Experience was the Graffiti..... compound? Idk. Basically a failed public works project that became home to loads of people just graffiti-in everything everywhere. There is a spot back home that I have wanted to graffiti for some time now, in the in abandoned lands between Sunol and Pleasanton, but I’m glad I did it alongside 5 year olds with My First Spray Can by FisherPrice™. Mostly because, goddamn spray painting shit is hard. I tried making Mickey Mouse .... it did not go well. In addition to the fact that I clearly have no recollection from memory what Mickey Mouse looked like, the overabundance of paint that I used had poor Mickey’s face melting off, as if he were a Nazi and had burned alive by the Ark of the Covenant. I suppose there are rumors that Walt Disney himself was an Anti-Semite, but I think we could have spared Mr. Mouse his terrible fate.
 
-##San Antonio
+## San Antonio
 I didn’t actually intend to do much in San Antonio - so the result was I became a wandering hobo for about 9 hours, and as I arrived at 9pm, the train was set to leave at 6am and the only available hostels were about 30 minutes out from the city center. I have very little trust in my ability to come in on time to any thing, so I decided to wander around. I had a rudimentary plan - see a movie, chill in a pub, go to Denny’s, and then wait out the remaining hour in the station. Of course, I hate plans, because planning is for CHUMPS so the first thing I did was go to an improv comedy club and see Al Ducharme, who’s apparently in tv things that people like, and he was quite good.
 
 I don’t know if it’s the current state of affairs in the world, or my own personal experiences, but I have this latent fear as a bearded brown guy running around the country especially in places like Texas where the clothing signifiers like cowboy hats and bolo ties and certain styles of button ups and jeans and boots have come to represent racist bullshit. I hate it. It feels constant and omnipresent and I think I’ve come to engage in the culture of de facto segregation that comes from radical discourse, and I hate it. I feel like in radical discourse, there is a constant push to use your identity to “other” people in positions of power. While I recognize the value in drawing attention to invisible power structures,  as someone who is well-spoken enough and friendly enough and educated enough, I feel have a better opportunity to work within liberal power structures and affect change through individual experience. There was nothing in the comedy show or the people around me that indicated any sort of ill will towards me. But the insecurity of running around alone combined with my own very clear unconscious prejudices against quintessential white, southern culture was enough to dampen the mood and make me feel uncomfortable, mostly with myself.
@@ -29,7 +28,7 @@ So after the improv show I went to random bars and like a fuckin moron I brought
 
 So due to bag related troubles I found myself leaving the bars a lot earlier than was detailed in my plan - clearly, I was a chump -  and Denny’s by yourself isn’t a particularly long engagement either so I was back in the train station by 3am. It is, of course, impossible to sleep or do anything productive of note, so I tried watching TV shows and wallow in my engineered homelessness in the tiny Amtrak station which was empty save for me, the occasional Amtrak police officer, and an elderly lady with a shopping cart. I can only imagine that she had a night as crazy as me, mostly because with her under-the-breath muttering and vaguely piss-scented bedsheets, baggies and backpacks in her shopping cart, we probably looked like twins. Vague characters flitted in an out between 3am to 5am - I suppose this makes me one of them. Or perhaps, one of us.
 
-##New Orleans
+## New Orleans
 
 And so we finally come to New Orleans, on the week of Mardi Gras. I came in Sunday night, at Madame Isabelle’s hostel, down Esplanade. Let me tell you, that was a proper use of my budget. At the hostel there were very few people traveling in groups, and so there’s an instant camaraderie born, maybe out of utility but also by way of similar interests. There’s a value in being alone and meeting new and colorful people, and to experience something together for the first time.
 

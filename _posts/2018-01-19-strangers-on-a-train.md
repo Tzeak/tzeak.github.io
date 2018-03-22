@@ -2,7 +2,6 @@
 layout: post
 title: Strangers On A Train
 ---
-#Strangers on a Train
 
 Maybe it’s a generational thing - the people that are on this train are largely middle aged, 40+, often senior citizens - but the nature of this train is friction. There isn’t anywhere to go without running into another person here, especially in the dining cart.
 

@@ -2,7 +2,6 @@
 layout: post
 title: Something Blue in Brooklyn
 ---
-#Something Blue in Brooklyn
 
 It’s been about two weeks since my trip began and I have to say i am failing quite heavily at one particular romanticized notion that I had, which is to say I have accomplished very little work at all.
 

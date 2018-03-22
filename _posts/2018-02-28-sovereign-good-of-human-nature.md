@@ -2,24 +2,45 @@
 layout: post
 title: Sovereign Good of Human Nature
 ---
-The Ocean and her Garden
 
+Today, I’m sitting in the Library of Congress - the Main Reading Room. The ornate columns, literally pillars upon which to build our society.
 
-Dear world,
-Maybe it’s too early for love letters. 
-So lets call this an exploration.
-I met someone.
-And I am so stoked.
-I don’t think I’ve ever been properly excited about someone. 
-Love has always been tempered through youth and fear of vulnerability and the tentativeness that comes from emotional immaturity. 
-To discover their qualities and values and interests and finding in them the ideals you romanticized?
-Stealing daydreams about a romance to idealize
-To enjoy each other in an unadulterated mutuality?
-To be equal. Affirmed. 
-To discover yourself through another person?
-To be found.
+Philosophy
+THE INQUIRY, KNOWLEDGE, AND BELIEF OF TRUTH
+IS THE SOVEREIGN GOOD OF HUMAN NATURE.
+-Bacon, Essays, "Of Truth"
 
+Art
+AS ONE LAMP LIGHTS ANOTHER, NOR GROWS LESS,
+SO NOBLENESS ENKINDLETH NOBLENESS.
+-Lowell, Yussouf
 
-All of this is clear romanticization, honeymooning - if a relationship is characterized by growth and investment, we are only a sapling. 
+History
+ONE GOD, ONE LAW, ONE ELEMENT, AND ONE FAR-OFF DIVINE EVENT,
+TO WHICH THE WHOLE CREATION MOVES
+-Tennyson, In Memoriam
 
-But goddamn do I like this girl. 
+Commerce
+WE TASTE THE SPICES OF ARABIA YET NEVER FEEL
+THE SCORCHING SUN WHICH BRINGS THEM FORTH.
+-Anon. [Dudley North, East India Trade]
+
+Religion
+WHAT DOTH THE LORD REQUIRE OF THEE, BUT TO DO JUSTLY,
+AND TO LOVE MERCY, AND TO WALK HUMBLY WITH THY GOD?
+-Holy Bible, Micah 6:8
+
+Science
+THE HEAVENS DECLARE THE GLORY OF GOD;
+AND THE FIRMAMENT SHEWETH HIS HANDIWORK.
+-Holy Bible, Psalms 19:1
+
+Law
+OF LAW THERE CAN BE NO LESS ACKNOWLEDGED
+THAN THAT HER VOICE IS THE HARMONY OF THE WORLD.
+-Richard Hooker
+
+Poetry
+HITHER, AS TO THEIR FOUNTAIN, OTHER STARS REPAIRING,
+IN THEIR GOLDEN URNS DRAW LIGHT.
+-Milton, Paradise Lost, vii, 364
